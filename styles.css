@@ -2,13 +2,15 @@ h1 {
     text-align: center;
 }
 
+
 div {
     text-align: left;
 }
 
-#faultyItems {
-    visibility: hidden;   
+#pilotStatus, #copilotStatus, #fuelStatus, #cargoStatus {
+    visibility: hidden;
 }
+
 
 #launchForm {
     background-color: #ECF0F1;
